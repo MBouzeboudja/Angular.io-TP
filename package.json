@@ -1,0 +1,19 @@
+{
+  "name": "angular.io-tp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBouzeboudja/Angular.io-TP.git"
+  },
+  "author": "Mahdi BOUZEBOUDJA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MBouzeboudja/Angular.io-TP/issues"
+  },
+  "homepage": "https://github.com/MBouzeboudja/Angular.io-TP#readme"
+}
